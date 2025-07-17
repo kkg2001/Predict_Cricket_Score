@@ -1,1 +1,1 @@
-This project forecast scores with impressive accuracy, giving fans and analysts valuable insights in real time.
+This project forecast cricket scores with great accuracy using deep learning algorithms
